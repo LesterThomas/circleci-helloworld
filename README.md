@@ -1,4 +1,4 @@
 # circleci-helloworld
 
 
-[![Build Status](https://circleci.com/gh/lesterthomas/circleci-helloworld.svg?style=svg)](https://circleci.com/gh/lesterthomas/circleci-helloworld)
+Build status: [![Build Status](https://circleci.com/gh/LesterThomas/circleci-helloworld.svg)](https://circleci.com/gh/LesterThomas/circleci-helloworld.svg)
