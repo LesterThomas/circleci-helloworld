@@ -1,0 +1,8 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node/9.11.2-stretch
+    steps:
+      - checkout
+      - run: echo "hello world"
